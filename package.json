@@ -1,0 +1,17 @@
+{
+  "name": "gprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx functions-framework --target=subs"
+  },
+  "author": "kabiru yakubu",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^3.3.0"
+  },
+  "dependencies": {
+    "googleapis": "^126.0.1"
+  }
+}
